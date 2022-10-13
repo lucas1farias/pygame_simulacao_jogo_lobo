@@ -8,7 +8,7 @@
 
 <h4>Detalhes</h4>
 <ol>
-  <li>Esse repositório é diretamente relacionado ao repositório <p>pygame_criar_mapas</p></li>
+  <li>Esse repositório é diretamente relacionado ao repositório <b>pygame_criar_mapas</b></li>
   <li>Ao executar um dos arquivos em <b>pygame_criar_mapas</b>, é gerado no terminal um array de strings e este array pode ser copiado e usado neste repositório em <b>config/settings.py</b></li>
   <li>Em <b>config/settings.py</b>, os mapas existentes foram criados via repositório <b>pygame_criar_mapas</b></li>
   <li>Em <b>config/settings.py</b>, apesar dos mapas serem aleatórios, é possível optar por criar manualmente</li>
@@ -29,7 +29,7 @@
 
 <h4>Details</h4>
 <ol>
-  <li>This repository is straighly related with the repository <p>pygame_criar_mapas</p></li>
+  <li>This repository is straighly related with the repository <b>pygame_criar_mapas</b></li>
   <li>After running files from <b>pygame_criar_mapas</b>, it is generated an array of strings on the terminal, which can be copied and used in this repository, in <b>config/settings.py</b></li>
   <li>In <b>config/settings.py</b>, existing maps were created by the repository <b>pygame_criar_mapas</b></li>
   <li>In <b>config/settings.py</b>, besides maps are random, they can be created manually</li>
